@@ -6,12 +6,10 @@ Usuario::Usuario(const std::string &login, const std::string &password) {
 }
 
 std::string Usuario::getLogin() const {
-    // TODO: Implemente este metodo
     return this->_login;
 }
 
 std::string Usuario::getPassword() const {
-    // TODO: Implemente este metodo
     return this->_password;
 }
 
