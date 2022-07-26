@@ -1,6 +1,6 @@
 # Password Manager
-A small project developed in C++ language, for the discipline of programming and development. The program makes use of some functionality from the C++ Standard Template Library, to simulate the allocation and organization of classrooms for a Department.
- 
+A small project developed in C++ language, for the discipline of programming and development.
+
 The idea behind the code is to simulate the management of logins and passwords related to a user's browsing. <br />
 The service stores some credentials collected every time the user performs a login or creates a registration on some website.
 
