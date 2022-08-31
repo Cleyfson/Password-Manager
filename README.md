@@ -1,5 +1,5 @@
 # Password Manager
-A small project developed in C++ language, for the discipline of programming and developmentat UFMG. 
+A small project developed in C++ language, for the discipline of programming and developmentat at UFMG. 
 
 The idea behind the code is to simulate the management of logins and passwords related to a user's browsing. <br />
 The service stores some credentials collected every time the user performs a login or creates a registration on some website.
